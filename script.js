@@ -1,3 +1,7 @@
+const scrool = new LocomotiveScroll({
+    el: document.querySelector('#main'),
+    smooth: true
+});
 function video1animation(){
     var video1 = document.querySelector("#video1")
 var playbtn = document.querySelector("#play")
