@@ -22,7 +22,7 @@ html, body {
 }
 #page1 h1{
     font-size: 8.8vw;
-    /* font-family: cabin,notosans,;  */
+    /* font-family: monospace; */
     text-transform: uppercase;
     line-height: 6.8vw;
     font-weight: 760;
